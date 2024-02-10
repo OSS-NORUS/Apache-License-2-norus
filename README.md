@@ -1,12 +1,12 @@
-# <NAME>-NORUS License
+# Apache-License-2.0-NORUS License
 
-> <NAME> license with additional text to prohibit use by people and organizations support Russia's war against Ukraine.
+> Apache-License-2.0 with additional text to prohibit use by people and organizations support Russia's war against Ukraine.
 
 ### [READ LICENSE TEXT](./LICENSE)
 
 ---
 
-Additions to the <NAME> license to prohibit use by people and organizations supporting Russia's war against Ukraine:
+Additions to the Apache-License-2.0 to prohibit use by people and organizations supporting Russia's war against Ukraine:
 
 ```
 The following conditions must be met by any person or organization obtaining a copy of this
